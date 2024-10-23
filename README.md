@@ -23,9 +23,9 @@ Save the product images and label them with their corresponding titles.
 
 ## Tools Used:
 
-- Python
-- BeautifulSoup
-- Pandas (for CSV export)
+- `Python`
+- `BeautifulSoup`
+- `Pandas (for CSV export)`
 
 ## Group Members
 
@@ -42,6 +42,9 @@ Save the product images and label them with their corresponding titles.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Special Thanks to our Learning Coach and Facilitator, Mr [Marvin Ogore](https://www.linkedin.com/in/marvin-ogore/)
+
+© `African Leadership university`
 
 
 
